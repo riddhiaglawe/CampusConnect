@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "A modern digital platform for college students featuring campus announcements, events & RSVPs, clubs & societies, study resources hub, student dashboard, and comprehensive UX case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
